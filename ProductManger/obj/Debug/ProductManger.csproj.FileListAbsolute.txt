@@ -1,0 +1,16 @@
+C:\Users\ICON\source\repos\ProductManger\ProductManger\bin\Debug\ProductManger.exe.config
+C:\Users\ICON\source\repos\ProductManger\ProductManger\bin\Debug\ProductManger.exe
+C:\Users\ICON\source\repos\ProductManger\ProductManger\bin\Debug\ProductManger.pdb
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.csproj.AssemblyReference.cache
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.csproj.SuggestedBindingRedirects.cache
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.FRM_Add_Product.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.Main.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.Properties.Resources.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.csproj.GenerateResource.cache
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.csproj.CoreCompileInputs.cache
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.exe
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.pdb
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.FRM_Add_Category.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.FRM_Product.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.UPdate_Pro.resources
+C:\Users\ICON\source\repos\ProductManger\ProductManger\obj\Debug\ProductManger.DAL.FRM_Login.resources
